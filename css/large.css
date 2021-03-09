@@ -1,0 +1,11 @@
+/* (min-width: 992px) */
+
+.header-img {
+    background-image: url(../img/wolf-2234511_1920.jpg);
+}
+
+/* MAIN */
+
+.main-product{
+    width: 50%;
+}
